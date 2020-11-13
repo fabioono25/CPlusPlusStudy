@@ -1,0 +1,2 @@
+C:\Study\Code\CPlusPlusStudy\Debug\Tests.exe
+C:\Study\Code\CPlusPlusStudy\Debug\Tests.pdb
