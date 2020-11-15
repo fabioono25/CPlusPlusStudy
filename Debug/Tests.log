@@ -1,2 +1,3 @@
 ﻿  Tests.cpp
+C:\Study\Code\CPlusPlusStudy\Tests.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   Tests.vcxproj -> C:\Study\Code\CPlusPlusStudy\Debug\Tests.exe
